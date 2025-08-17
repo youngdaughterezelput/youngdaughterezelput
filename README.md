@@ -1,6 +1,6 @@
-## Hi ✨
+## 🌿☘ Hi ☘🌿 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=50&size=15&duration=1000&pause=10000&color=29F6C4&width=435&lines=I+am+passionate+about+QA)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&duration=1500&pause=2000&color=24F6C3&width=435&lines=%F0%9F%8C%BF+I'm+passionate+about+QA%E2%9A%99+%26+Python%F0%9F%90%8D;as+I+want+to+perfect+these+skills%F0%9F%8C%BF)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youngdaughterezelput" alt="youngdaughterezelput" /></a> </p>
 
