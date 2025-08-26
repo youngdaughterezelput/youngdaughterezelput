@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&duration=1500&pause=2000&color=24F6C3&width=435&lines=%F0%9F%8C%BF+I'm+passionate+about+QA%E2%9A%99+%26+Python%F0%9F%90%8D;as+I+want+to+perfect+these+skills%F0%9F%8C%BF)](https://git.io/typing-svg)
 
-Possibly, the required profile statistics
+🦊Possibly, the required profile statistics
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngdaughterezelput&show_icons=true&locale=en" alt="youngdaughterezelput" /></p>
 
