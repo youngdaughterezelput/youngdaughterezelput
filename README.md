@@ -1,4 +1,4 @@
-## 🌿☘ Hi ☘🌿 
+## 🌿Hi🌿 
 
 The required profile statistics
 
