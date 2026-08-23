@@ -55,13 +55,13 @@ UI automation framework built with Python and Playwright for testing web applica
 
 Java UI automation experiments using Selenium.
 
-#### API Failure Simulation Tool - in progress ⏳
+#### [API Failure Simulation Tool](https://github.com/youngdaughterezelput/failure-simulation-tool) - in progress ⏳
 
 A FastAPI-based QA tool for simulating API failures and abnormal backend behaviour.
 
 The goal is to provide reusable failure scenarios, configurable mocked responses, and an interface for creating custom test cases.
 
-Repository link will be added later...
+#### Experiments with FastAPI ❓
 
 ---
 
