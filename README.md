@@ -79,11 +79,3 @@ The goal is to provide reusable failure scenarios, configurable mocked responses
 
 ---
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=youngdaughterezelput&theme=github-compact&hide_border=true"
-    alt="Sofiia's contribution activity"
-  />
-</p>
